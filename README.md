@@ -4,7 +4,8 @@
 This project is a classic two-transistor astable multivibrator built to develop a hands-on understanding of transistors as electronic switches.
 
 ## Demo
-(TBA)
+![astable-multivibrator](https://github.com/user-attachments/assets/3e3eb8e3-a319-4156-be18-4c09b3521d21)
+
 
 ## Technical Specifications
 - Topology: Astable Multivibrator
@@ -22,13 +23,13 @@ The circuit works by using two transistors that turn eachother on and of in a co
 1. Simulation
 
 I first simulated the circut in LTspice to predict its behavior and develop a conceptual understanding. The LTSpice simulation confirmed the predicted time period and showed the square wave created by the circuit.
-(Image TBA)
+<img width="1440" height="872" alt="ltspice-graph" src="https://github.com/user-attachments/assets/9b2ace64-ba00-4363-a857-a67cbca0e4bc" />
 
 2. Physical Prototype
 
 I then constructed the circuit on a solderless breadboard, and timed the blinking using both a video. I also tested the voltage differences at various points using a digital multimeter.
 
-(Image TBA)
+![E5E6D20B-95C7-44F2-8710-F8119AF032DB_4_5005_c](https://github.com/user-attachments/assets/868e0fc7-8980-44a7-865a-fe4fc319c442)
 
 ## Challenges & Learnings
 

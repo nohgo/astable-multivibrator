@@ -27,7 +27,7 @@ I first simulated the circut in LTspice to predict its behavior and develop a co
 
 2. Physical Prototype
 
-I then constructed the circuit on a solderless breadboard, and timed the blinking using both a video. I also tested the voltage differences at various points using a digital multimeter.
+I then constructed the circuit on a solderless breadboard, and timed the blinking using video. Additionally, I tested the voltage differences at various points using a digital multimeter.
 
 ![E5E6D20B-95C7-44F2-8710-F8119AF032DB_4_5005_c](https://github.com/user-attachments/assets/868e0fc7-8980-44a7-865a-fe4fc319c442)
 

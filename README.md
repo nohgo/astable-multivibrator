@@ -23,8 +23,10 @@ The circuit works by using two transistors that turn eachother on and of in a co
 1. Simulation
 
 I first simulated the circut in LTspice to predict its behavior and develop a conceptual understanding. The LTSpice simulation confirmed the predicted time period and showed the square wave created by the circuit.
-<img width="544" height="414" alt="Screenshot 2025-07-27 at 5 02 14 PM" src="https://github.com/user-attachments/assets/3a9e27d7-dcac-4494-a123-49abfbbc78d6" />
-<img width="544" height="414" alt="Screenshot 2025-07-27 at 4 52 53 PM" src="https://github.com/user-attachments/assets/9deab294-9226-4684-88af-17143c74b586" />
+
+Circuit Schematic | Waveform Output
+--------| --------
+<img width="544" height="414" alt="Screenshot 2025-07-27 at 5 02 14 PM" src="https://github.com/user-attachments/assets/3a9e27d7-dcac-4494-a123-49abfbbc78d6" /> | <img width="544" height="414" alt="Screenshot 2025-07-27 at 4 52 53 PM" src="https://github.com/user-attachments/assets/9deab294-9226-4684-88af-17143c74b586" />
 
 2. Physical Prototype
 

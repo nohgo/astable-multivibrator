@@ -1,0 +1,23 @@
+# --- Simulation Data ---
+# These files contain the raw output from simulations and can be very large.
+# They are regenerated every time a simulation is run.
+*.raw
+*.op.raw
+
+# --- Generated Files ---
+# Netlists, logs, and reports generated during simulation.
+*.net
+*.log
+*.fft
+*.eff
+
+# --- User-Specific Files ---
+# Plot configuration files. These are often specific to a user's screen
+# and analysis, so they are typically not shared.
+*.plt
+
+# --- Backup & Temporary Files ---
+# Backup files created by LTspice or other text editors.
+*.bak
+*~
+*.tmp
